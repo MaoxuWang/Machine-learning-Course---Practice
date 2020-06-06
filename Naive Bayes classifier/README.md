@@ -1,4 +1,4 @@
-# 朴素贝叶斯分类器
+# Naive Bayes Classifier
 > source：SCU-homework
 
 ### Data: .dat file, including feature columns and labels
